@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Привет, я Олег!
 
-<!--
-**anolegkr/anolegkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Краткое описание: кто я, чем занимаюсь]
+## Подготовка будущего резюме
+## 💼 Опыт 
+- **Компания** — Должность (2023–н.в.)
+  - Что делал, технологии, результаты
 
-Here are some ideas to get you started:
+## 💻 Технологии
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Статистика
+![Статистика коммитов](https://github-readme-stats.vercel.app/api?username=anolegkr&show_icons=true&theme=radical)
+
+## 📫 Связаться
+- Telegram: [@anolegkr](https://t.me/anolegkr)
+- Email: anolegkr@gmail.com
